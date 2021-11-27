@@ -18,5 +18,6 @@ Alguns projetos interessantes:
 [Livro de Receitas App](https://github.com/Decripter/livro_de_receitas_flutter) - Este é o app que irá consumir a API Livro de Receitas, ele está sendo desenvolvido em Fluter, isso mesmo, este é um projeto em andamento, estarei trabalhando nele estes dias.
 
 <hr>
+
 Aqui estão alguns dos links para me encontrar, vamos nos conectar no [Linkedin](http://linkedin.com/in/jeilson-araujo/), tenho um repositório no [Replit](https://replit.com/@Decripter) com alguns desafios que completei durante o bootcamp da [codecademy](http://codecademy.com/).
 
