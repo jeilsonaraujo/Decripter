@@ -6,7 +6,7 @@ Alguns projetos interessantes:
 
 
 <img width=33 src="https://play-lh.googleusercontent.com/d_xfNZhuTyy7QwXHLGZvmvRxLlvCz8g-9uYHdoGPz28v21q_-nn0SCBaipZ4zhjXnlY=s180"></img><br>
-[Lista de Entrega - Barcode](https://play.google.com/store/apps/details?id=json.ar.lista_de_entrega_barcode) - Este é um aplicativo que desenvolvi em flutter e que está publicado na Google Play Store, nele é possível criar uma lista com códigos de barras para otimizar o lançamento de objetos em sistemas de entrega.
+[Lista de Entrega - Barcode](https://github.com/Decripter/lista-de-entrega-barcode) - Este é um aplicativo que desenvolvi em flutter e que está publicado na [Google Play Store](https://play.google.com/store/apps/details?id=json.ar.lista_de_entrega_barcode), nele é possível criar uma lista com códigos de barras para otimizar o lançamento de objetos em sistemas de entrega.
 <br>
 
 # 📙
