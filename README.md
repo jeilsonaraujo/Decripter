@@ -1,4 +1,4 @@
-### Olá sejam bem-vindos ao meu repositório!
+### Olá seja bem-vindo ao meu repositório!
 
 Não deixe de dar uma passada no meu [Manual de ferramentas](https://github.com/Decripter/Manual_Ferramentas), lá estou deixando algumas dicas de uso de ferramentas, confere lá!
 
