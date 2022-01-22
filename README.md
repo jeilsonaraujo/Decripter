@@ -16,7 +16,7 @@ Alguns projetos interessantes:
 
 ## 📙 [Livro de Receitas](https://github.com/Decripter/livro_de_receitas)
 
- - Aqui temos uma API em Django REST Framework, temos dois acessos separados: o chef que cria as receitas e o cliente que visualiza as mesmas com recursos de filtro e busca.
+ - Uma API em Django REST Framework, temos dois prefils de acesso:um para o Chef que cria as receitas e outro para o Cliente que visualiza as mesmas com recursos de filtro e busca.
 
 ## 📱 [Livro de Receitas App](https://github.com/Decripter/livro_de_receitas_flutter)
 
