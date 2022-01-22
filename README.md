@@ -10,6 +10,9 @@ Alguns projetos interessantes:
 ## <img width=33 src="https://play-lh.googleusercontent.com/d_xfNZhuTyy7QwXHLGZvmvRxLlvCz8g-9uYHdoGPz28v21q_-nn0SCBaipZ4zhjXnlY=s180"></img> [Lista de Entrega - Barcode](https://github.com/Decripter/lista-de-entrega-barcode)<br>
  - Este é um aplicativo que desenvolvi em flutter e que está publicado na [Google Play Store](https://play.google.com/store/apps/details?id=json.ar.lista_de_entrega_barcode), nele é possível criar uma lista com códigos de barras para otimizar o lançamento de objetos em sistemas de entrega.
 
+## 📬 [Postal Manager](https://github.com/Decripter/postal_manager)
+
+- Este é um gerenciador de objetos postais, o objetivo principal é poder buscar por objetos que já estão à disposião para serem retirados filtrando pelo nome do destinatário. Os objetos recebidos são cadastrdos pelo nome do destinatário e pelo tipo do serviço para serem retirados em uma agência, cada tipo de serviço tem um prazo para ser retirado e após vencer este prazo o sistema notifica quais podem serem devolvidos.
 
 ## 📙 [Livro de Receitas](https://github.com/Decripter/livro_de_receitas)
 
