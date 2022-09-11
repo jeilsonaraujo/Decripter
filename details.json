@@ -1,0 +1,27 @@
+ {
+    
+    "favorites_tecnologies": {
+      "Flutter/Dart": "https://img.icons8.com/material-outlined/384/flutter.png",
+      "Python": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Python_icon_%28black_and_white%29.svg/2048px-Python_icon_%28black_and_white%29.svg.png",
+      "Linux":"https://cdn-icons-png.flaticon.com/512/25/25719.png"
+      "Docker":"https://toppng.com/uploads/preview/docker-logo-116093594376yxkrwzocu.png"
+      
+      
+    }
+    "skills": {
+      "Flutter/Dart": 0.7,
+      "Python": 0.6,
+      "Git": 0.5,
+      "C": 0.12,
+      "C++": 0.12,
+      "HTML": 0.5,
+      "CSS": 0.3,
+      "JavaScript": 0.4,
+      "Androd/Java": 0.3,
+      "IOS/Swift": 0.3,
+      "Bash": 0.4,
+      "Java": 0.4,
+      "Lua": 0.3,
+      
+    }
+  },
